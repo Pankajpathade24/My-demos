@@ -7,10 +7,13 @@
     height: 60px;
     font-size: 20px;
     margin-left: 550px;
-
 }
 .logo1{
     height: 80px;
-    width: 80px; 
-      
+    width: 80px;      
+}
+/* Experience Maharashtra */
+.experienceback{
+    height: 550px;
+    width: auto;
 }
